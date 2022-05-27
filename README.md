@@ -10,3 +10,6 @@ This is a sample purpose text, which is being used as a filler here. Cheers !!
 ## Deployment
 
 ## How To Contribute
+
+## Copyright 
+copyright vu29
