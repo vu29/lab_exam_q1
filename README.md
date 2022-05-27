@@ -2,8 +2,10 @@
 This is a sample project to learn git
 
 ## Intro
+This is sample intro text
 
 ## Purpose
+This is a sample purpose text, which is being used as a filler here. Cheers !!
 
 ## Deployment
 
