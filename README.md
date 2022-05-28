@@ -10,6 +10,7 @@ This is sample intro text
 plz form and issue PR to review.
 
 ## Copyright 
+all rights reserved 
 copyright vu29
 
 ## Rebasing example
